@@ -61,12 +61,16 @@ To run the Star Bakery Full-Stack Dashboard locally, follow these steps:
 ## Configuration
 
 Backend API URL: Make sure the Node.js backend is running on http://localhost:3008/api.
-Technologies Used
+
+## Technologies Used
+
 Frontend:
 
-React: A JavaScript library for building user interfaces.
-Recharts: A charting library for React applications.
-Axios: A promise-based HTTP client for making API requests.
+- React: A JavaScript library for building user interfaces.
+- Chart.js and react-chartjs-2: A versatile charting library for React applications.
+- Axios: A promise-based HTTP client for making API requests.
+- Ant Design (antd): A comprehensive UI library for designing modern web applications.
+
 Backend:
 
 Node.js: A JavaScript runtime for building server-side applications.
