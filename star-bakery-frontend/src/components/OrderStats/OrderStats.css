@@ -1,0 +1,15 @@
+.order-stats{
+margin: 40px;
+border-radius: 8px;
+border-style: dotted;
+border-color: rgb(70, 56, 14);
+background-color: rgba(234, 232, 232, 0.314);
+color: rgb(19, 23, 110);
+}
+h1{
+    color: brown;
+}
+.no-data{
+    color: brown;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
